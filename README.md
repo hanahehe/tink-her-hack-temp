@@ -2,27 +2,31 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+#RESTORE 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: KERNAL
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: HANA HARIS - COLLEGE OF ENGINEERING THALASSERY
+
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://hanahehe.github.io/restore/
 
 ### Project Description
-[2-3 lines about what your project does]
+This project is a smart campus logistics platform that streamlines student life by providing real-time inventory tracking for college stores and a pre-booking system for the canteen. It empowers students to influence store restocking through a crowdsourced demand feature and eliminates long food queues via QR-code-based meal collection.
 
 ### The Problem statement
-[What problem are you solving?]
+This project solves campus logistics friction by eliminating wasted trips for out-of-stock stationery through demand-driven restocking and ending long canteen queues via QR-code pre-booking with peak-hour load balancing.
 
 ### The Solution
-[How are you solving it?]
+Crowdsourced Restocking: Enables students to "Request" out-of-stock items, providing vendors with a data-driven replenishment list.
+
+QR-Code Pre-booking: Eliminates canteen queues by shifting ordering to a "grab-and-go" digital system.
+
+Traffic Load Balancing: Uses a Peak Hour Predictor to alert students of high-volume times, ensuring smoother service for both kitchen staff and hungry students.
 
 ---
 
@@ -31,25 +35,18 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
-
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Languages used: html,javascript ,css
+- Tools used: git,antigravity
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Live Inventory Tracking: Real-time visibility of stationery and college goodies with "In Stock" or "Out of Stock" status.
+- Crowdsourced Demand System: A "Request Restock" button for unavailable items that increments a counter, notifying vendors of high-priority needs.
+- Canteen Pre-booking: A digital menu allowing students to order food in advance to avoid physical queues.
+- Dynamic QR Code Generation: Instant generation of a unique QR code upon order confirmation for secure, contactless pickup.
 
 ---
 
@@ -59,22 +56,15 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+ git clone https://github.com/hanahehe/restore
+ cd restore
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+python3 -m http.server
+http://localhost:8000
 ```
-
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
 ---
 
 ## Project Documentation
@@ -83,7 +73,7 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -105,16 +95,6 @@ List the key features of your project:
 *Add caption explaining your workflow*
 
 ---
-
-### For Hardware:
-
-#### Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 #### Build Photos
 
